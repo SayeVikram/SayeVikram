@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SayeVikram
 - 👀 I’m interested in Python and Data Science
-- 🌱 I’m currently learning Tensorflow and Machine Learning
+- 🌱 I’m currently learning Algorithms
 - 📫 How to reach me Gmail - sayevikramkarthikeyan@gmail.com
 
 <!---
