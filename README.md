@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SayeVikram
-- 👀 I’m interested in Python and Data Science
-- 🌱 I’m currently learning Web Development with the Django Framework
+- 👀 I’m interested in Java and Web development
+- 🌱 I’m currently learning Web Development with Spring Boot
 - 📫 How to reach me Gmail - sayevikramkarthikeyan@gmail.com
 
 <!---
