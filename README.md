@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SayeVikram
-- 👀 I’m interested in Java and Web development
-- 🌱 I’m currently learning Web Development with Spring Boot
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning Web Development with React
 - 📫 How to reach me Gmail - sayevikramkarthikeyan@gmail.com
 
 <!---
