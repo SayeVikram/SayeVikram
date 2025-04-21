@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SayeVikram
+- 👋 Hi, I’m @SayeVikram, an incoming freshman at Carnegie Mellon University!
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Web Development with React
 - 📫 How to reach me Gmail - sayevikramkarthikeyan@gmail.com
